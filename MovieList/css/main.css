@@ -4,8 +4,7 @@ div,
 h1,
 h2,
 p,
-ul,
-section {
+ul {
   margin: 0;
   padding: 0;
   border: 0;
@@ -41,7 +40,7 @@ p {
   line-height: 1.4;
 }
 /* CONTAINER STYLES */
-.container {
+main {
   box-sizing: border-box;
   width: 90%;
   max-width: 1080px;
