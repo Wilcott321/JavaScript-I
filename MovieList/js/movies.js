@@ -35,6 +35,7 @@ var movies = {
 }
 
 
+/* Test
 
 var movie = movies["Almost Christmas"];
 console.log(movie.title);
@@ -44,5 +45,7 @@ for (i in movie.actors) {
 	console.log(movie.actors[i]);
 }
 console.log(movie.rating);
+
+*/
 
 /* Click function for displaying info */
