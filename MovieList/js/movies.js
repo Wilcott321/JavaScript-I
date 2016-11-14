@@ -34,6 +34,14 @@ var movies = {
 	}
 }
 
+/* Define global variables */
+var boxOfficePickOne = movies["Dr. Strange"];
+var boxOfficePickTwo = movies["Arrival"];
+var boxOfficePickThree = movies["Trolls"];
+var boxOfficePickFour = movies["Almost Christmas"];
+
+/* Click function for displaying info */
+
 
 /* Test
 
@@ -46,6 +54,9 @@ for (i in movie.actors) {
 }
 console.log(movie.rating);
 
+function changeNow() {
+	document.getElementById("movie-content").innerHTML = "test";
+}
+
 */
 
-/* Click function for displaying info */
