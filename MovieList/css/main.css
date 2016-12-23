@@ -74,3 +74,10 @@ aside {
   max-width: 40%;
   padding-right: 50px;
 }
+
+#movie-content {
+  position: absolute;
+  margin: auto;
+  top: 30%;
+  left: 30%;
+}
