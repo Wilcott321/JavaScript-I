@@ -71,5 +71,6 @@ article {
 
 aside {
   float: right;
-  padding-right: 20px;
+  max-width: 40%;
+  padding-right: 50px;
 }
