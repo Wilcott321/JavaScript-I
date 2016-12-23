@@ -41,6 +41,14 @@ p {
   margin-bottom: 15px;
   line-height: 1.4;
 }
+
+li {
+  color: #8d9aa5;
+  font-size: 1.4em;
+  margin-bottom: 15px;
+  line-height: 1.4;
+  list-style-type: none;
+}
 /* CONTAINER STYLES */
 main {
   box-sizing: border-box;
