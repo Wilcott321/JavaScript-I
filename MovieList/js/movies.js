@@ -23,4 +23,7 @@ var filmEight = new movie('Harry Potter and the Dealthly Hallows: Part 2', '2h 1
 var filmNine = new movie('Frozen', '1h 49m', 'rated PG', ['Starring Idina Menzel', '  Kristen Bell'], 'Gross: $1,287,000,000');
 var filmTen = new movie('Iron Man 3', '2h 15m', 'rated PG-13', ['Starring Robert Downey Jr.', '  Gweneth Paltrow'], 'Gross: $1,215,439,994');
 
+/*Define global variables that will be used*/
+var movieFacts, movieTitle, formattedMovieTitle, movieDuration, formattedMovieDuration, movieRating, formattedMovieRating, movieStars, formattedMovieStars, movieGross, formattedMovieGross;
+
 
