@@ -1,5 +1,5 @@
 # JavaScript-I
-A collection of JavaScript exersizes and projects that I'm completing this Winter season 2016
+A collection of JavaScript exercises and projects that I'm completing this Winter season 2016
 
 ### Contents
 1. **MovieList:** Click this weekend's box office number on the right and it will display facts about the film.
